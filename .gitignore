@@ -1,0 +1,22 @@
+# Build / temp
+target/
+test-ledger/
+.DS_Store
+.anchor/
+
+# Node
+node_modules/
+app/node_modules/
+
+# Yarn / npm
+yarn.lock
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.rs.bk
+*.log
+*.tmp
